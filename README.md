@@ -1,1 +1,1 @@
-# DataScienceProjects
+# User Profile Segmentation
